@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27924.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DalSoft.RestClient.Examples", "Dalsoft.RestClient.Examples\DalSoft.RestClient.Examples.csproj", "{105797AA-EE29-4258-A5DD-3B551C2F0AE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DalSoft.RestClient.MvcAndIoC.Example", "DalSoft.RestClient.WebApiAndIoC.Example\DalSoft.RestClient.MvcAndIoC.Example.csproj", "{9B3BECB5-DEF4-4010-B2BE-B8727C2BEC48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{105797AA-EE29-4258-A5DD-3B551C2F0AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105797AA-EE29-4258-A5DD-3B551C2F0AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105797AA-EE29-4258-A5DD-3B551C2F0AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105797AA-EE29-4258-A5DD-3B551C2F0AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3BECB5-DEF4-4010-B2BE-B8727C2BEC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3BECB5-DEF4-4010-B2BE-B8727C2BEC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3BECB5-DEF4-4010-B2BE-B8727C2BEC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3BECB5-DEF4-4010-B2BE-B8727C2BEC48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD6F623-5B87-4C96-833E-DBAB9ED9AE03}
+	EndGlobalSection
+EndGlobal
